@@ -194,7 +194,7 @@ Prompt engineering can identify and mitigate prompt injection attacks, ensuring 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt:
-Make cool artwork with stars.
+Make cool artwork with stars
 This prompt lacks specificity and leaves room for interpretation. It doesn’t provide clear guidance on the desired style, medium, or context.
 
 Improved Prompt:
